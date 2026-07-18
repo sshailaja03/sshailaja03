@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Shailaja Singh computer engineering profile</title>
+<desc id="desc">An isometric circuit board with code blocks, nodes and a chess-inspired processor.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b18"/><stop offset=".5" stop-color="#111a37"/><stop offset="1" stop-color="#160c2d"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c5cff"/><stop offset="1" stop-color="#25d9f8"/></linearGradient>
+  <linearGradient id="side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3d2f8f"/><stop offset="1" stop-color="#125c83"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8292d9" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+<circle cx="930" cy="195" r="155" fill="#694dff" opacity=".08"/>
+<circle cx="1010" cy="85" r="70" fill="#20d9ff" opacity=".09"/>
+<g opacity=".55" stroke="#4de2ff" stroke-width="2" fill="none">
+  <path d="M650 95h80l35 35h88"/><path d="M690 315h80l32-32h125"/><path d="M755 202h115"/><path d="M1010 268h90"/>
+</g>
+<g fill="#68e7ff" filter="url(#glow)">
+  <circle cx="650" cy="95" r="4"/><circle cx="853" cy="130" r="4"/><circle cx="690" cy="315" r="4"/><circle cx="927" cy="283" r="4"/><circle cx="755" cy="202" r="4"/><circle cx="870" cy="202" r="4"/><circle cx="1100" cy="268" r="4"/>
+</g>
+<g transform="translate(770 100)">
+  <polygon points="145,0 290,82 145,164 0,82" fill="url(#top)" opacity=".95"/>
+  <polygon points="0,82 145,164 145,215 0,133" fill="#292063"/>
+  <polygon points="290,82 145,164 145,215 290,133" fill="url(#side)"/>
+  <polygon points="145,37 230,84 145,131 60,84" fill="#0a1025" stroke="#9af3ff" stroke-width="3"/>
+  <path d="M122 109c20-9 23-31 8-42 26-1 43 21 35 42 14 4 24 12 30 22h-93c5-10 12-17 20-22z" fill="#9af3ff" opacity=".9"/>
+  <g stroke="#77eaff" stroke-width="3"><path d="M28 67l-27-15"/><path d="M28 116L0 132"/><path d="M262 67l28-16"/><path d="M262 116l28 16"/></g>
+</g>
+<g transform="translate(70 70)">
+  <rect x="0" y="0" width="590" height="280" rx="18" fill="#0b1126" stroke="#7c5cff" stroke-opacity=".65" stroke-width="2"/>
+  <rect width="590" height="44" rx="18" fill="#151d3a"/><rect y="25" width="590" height="19" fill="#151d3a"/>
+  <circle cx="25" cy="22" r="6" fill="#ff6685"/><circle cx="47" cy="22" r="6" fill="#ffc857"/><circle cx="69" cy="22" r="6" fill="#50e3a4"/>
+  <text x="105" y="28" fill="#8392c8" font-family="monospace" font-size="13">shailaja@engineering: ~/build</text>
+  <text x="35" y="92" fill="#7fe7ff" font-family="monospace" font-size="20">class</text><text x="105" y="92" fill="#d4c2ff" font-family="monospace" font-size="20">Engineer</text><text x="207" y="92" fill="#e7ecff" font-family="monospace" font-size="20">{</text>
+  <text x="55" y="132" fill="#91a2d8" font-family="monospace" font-size="17">focus</text><text x="118" y="132" fill="#e7ecff" font-family="monospace" font-size="17">=</text><text x="140" y="132" fill="#76f2bd" font-family="monospace" font-size="17">"C++ · DSA · Systems"</text>
+  <text x="55" y="168" fill="#91a2d8" font-family="monospace" font-size="17">build</text><text x="109" y="168" fill="#e7ecff" font-family="monospace" font-size="17">=</text><text x="131" y="168" fill="#76f2bd" font-family="monospace" font-size="17">"ideas → software"</text>
+  <text x="55" y="204" fill="#91a2d8" font-family="monospace" font-size="17">status</text><text x="127" y="204" fill="#e7ecff" font-family="monospace" font-size="17">=</text><text x="149" y="204" fill="#ffc86b" font-family="monospace" font-size="17">"open to SDE roles"</text>
+  <text x="35" y="244" fill="#e7ecff" font-family="monospace" font-size="20">};</text>
+  <rect x="35" y="258" width="390" height="3" rx="2" fill="url(#top)" filter="url(#glow)"/>
+</g>
+<text x="70" y="390" fill="#e8ecff" font-family="Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4">COMPUTER SCIENCE ENGINEERING</text>
+<text x="1118" y="390" text-anchor="end" fill="#7992d5" font-family="monospace" font-size="13">SEARCH • BUILD • OPTIMIZE</text>
+</svg>
